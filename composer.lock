@@ -1708,7 +1708,7 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/webimpress/zend-container-test",
-                "reference": "a72dd5012f9bebe04d5c94d8c372cc83d27a2204"
+                "reference": "e0a318601e2a6aac636d9979ae8f2c851f75233e"
             },
             "require": {
                 "php": "^7.1",
@@ -1778,7 +1778,7 @@
                 "slack": "https://zendframework-slack.herokuapp.com",
                 "forum": "https://discourse.zendframework.com/c/questions/components"
             },
-            "time": "2018-02-20T08:31:21+00:00"
+            "time": "2018-02-20T11:07:46+00:00"
         }
     ],
     "aliases": [],
