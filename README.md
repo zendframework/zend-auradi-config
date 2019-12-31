@@ -1,5 +1,9 @@
 # zend-auradi-config
 
+> ## Repository abandoned 2019-12-31
+>
+> This repository has moved to laminas/laminas-auradi-config.
+
 [![Build Status](https://secure.travis-ci.org/zendframework/zend-auradi-config.svg?branch=master)](https://secure.travis-ci.org/zendframework/zend-auradi-config)
 [![Coverage Status](https://coveralls.io/repos/github/zendframework/zend-auradi-config/badge.svg?branch=master)](https://coveralls.io/github/zendframework/zend-auradi-config?branch=master)
 
